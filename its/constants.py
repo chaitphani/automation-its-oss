@@ -1,4 +1,6 @@
-## constants to be added here
+API_URL = "http://localhost:8080/createBroadbandServieOrder"
+TOKEN_URL = "http://localhost:8080/oauth/token"
 
-# file path and name varies with different file/JSON objects.
-FILE_PATH = "sample_data.json"  # relative path/path itself.
+API_FILE_PATH = "static_files/its_atomation_data.json"
+
+API_MAIN_FILE_PATH = "static_files/its_main_new.json"
