@@ -1,5 +1,4 @@
-# URL = f"http://api.openweathermap.org/data/2.5/weather?q=Hyderabad&units=metric&APPID=b0b2a8c6eb68cf455d2b353ed0537b55"
+## constants to be added here
 
-API_ID = "b0b2a8c6eb68cf455d2b353ed0537b55"
-
-FILE_PATH = "tests/its.json"
+# file path and name varies with different file/JSON objects.
+FILE_PATH = "sample_data.json"  # relative path/path itself.
